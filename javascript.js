@@ -1,1 +1,0 @@
-let headElement = document.getElementById("heading");
